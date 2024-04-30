@@ -9,7 +9,7 @@ springboot-mongodb-crud
 * Add mongo DB configuration in application.properties
 * Step 3:
 * Add below dependency in pom.xml
-* <dependency>
+  <dependency>
     <groupId>jakarta.validation</groupId>
     <artifactId>jakarta.validation-api</artifactId>
     <version>3.1.0-M2</version>
