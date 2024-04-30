@@ -13,3 +13,11 @@ springboot-mongodb-crud
 * Create all classes mentioned in the github
 * Step 5:
 * Run Application class as Springboot application
+* Step 6:
+* POST: http://localhost:8080/products
+* input: -> Body -> Raw
+* {
+    "id": 1,
+    "name": "Nothing 2",
+    "description": "5G Android Mobile"
+}
